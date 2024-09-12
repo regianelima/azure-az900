@@ -11,3 +11,5 @@ Nesse repositório, serão incluídos projetos, links e demais materiais que for
 ## Plataforma de Estudos
 
 [DIO](https://www.dio.me/)
+
+[MICROSOFT LEARN](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)

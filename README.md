@@ -28,4 +28,4 @@ Outro ponto muito útil, foram os 2 simulados que fazem parte do conteúdo, já 
 
 ## Aprovação 
 
-<img src="![AZ-900](https://github.com/user-attachments/assets/e146a1e8-dc09-4cd3-b66b-3170ce1e5e2e)" width="200px" style="display: block; margin: 0 auto;">
+<img src="https://github.com/user-attachments/assets/e146a1e8-dc09-4cd3-b66b-3170ce1e5e2e" width="200px" style="display: block; margin: 0 auto;">
